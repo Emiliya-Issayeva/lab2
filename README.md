@@ -36,3 +36,7 @@
 Диаграмма состояний сканера:
 
 ![Снимок экрана 2025-04-15 162055](https://github.com/user-attachments/assets/f16ed603-17cf-4158-9769-2b27199be10c)
+
+Тестовый пример:
+
+![image](https://github.com/user-attachments/assets/437bdb5e-9437-4754-98d3-159984a38625)
